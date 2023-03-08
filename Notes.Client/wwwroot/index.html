@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>NoteGreen</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <script src="notes.js"></script>
+</head>
+<body class="body">
+<header class="header">
+</header>
+<main class="main">
+    <div class="menu__structure">
+    </div>
+    <div class="content__structure">
+        <div class="content__section">
+            <h2>Add new note</h2>
+            <form class="add__form">
+                <label for="note-name">Title</label>
+                <input id="note-name" type="text" name="note-name" size="50">
+                <label for="note-content">Content</label>
+                <textarea id="note-content" name="note-content" rows="10"></textarea>
+                <input type="submit" value="Add note">
+            </form>
+        </div>
+        <div class="content__section">
+            <h2>Delete note</h2>
+            <form class="delete__form">
+                <label for="note-id">Id</label>
+                <input id="note-id" type="text" name="note-id" size="50">
+                <input type="submit" value="Delete">
+            </form>
+        </div>
+        <div class="content__section" id="edit">
+            <h2>Note to edit</h2>
+            <form class="edit__form">
+                <label for="note-id-edit">Id</label>
+                <input id="note-id-edit" type="text" name="note-id-edit" size="50">
+                <input type="submit" value="Edit">
+            </form>
+        </div>
+        <div class="content__section">
+            <h1>My notes</h1>
+        </div>
+        <div id="for-posts"></div>
+    </div>
+</main>
+<footer class="footer">
+    <p>NoteGreen. Made by <a href="https://github.com/lvvnv">lvvnv</a></p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\Lev\Desktop\Notes\Notes.Client\bin\Debug\net6.0\Notes.Client.exe
+C:\Users\Lev\Desktop\Notes\Notes.Client\bin\Debug\net6.0\Notes.Client.deps.json
+C:\Users\Lev\Desktop\Notes\Notes.Client\bin\Debug\net6.0\Notes.Client.runtimeconfig.json
+C:\Users\Lev\Desktop\Notes\Notes.Client\bin\Debug\net6.0\Notes.Client.dll
+C:\Users\Lev\Desktop\Notes\Notes.Client\bin\Debug\net6.0\Notes.Client.pdb
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.csproj.AssemblyReference.cache
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.AssemblyInfoInputs.cache
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.AssemblyInfo.cs
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.csproj.CoreCompileInputs.cache
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.dll
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\refint\Notes.Client.dll
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.pdb
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\Notes.Client.genruntimeconfig.cache
+C:\Users\Lev\Desktop\Notes\Notes.Client\obj\Debug\net6.0\ref\Notes.Client.dll
